@@ -4,8 +4,6 @@ A simple **Microservices Architecture** project built using **Node.js** and **Ex
 
 This project demonstrates how multiple independent services can communicate through an **API Gateway**. It contains a User Service, Order Service, and API Gateway.
 
----
-
 ## 📌 Project Overview
 
 The application follows a basic microservices architecture:
